@@ -9,7 +9,7 @@ XYZ Corporation has hired your team of consultants to provide solutions to water
 ### Programming language
 SAS Studio
 
-### Authors (Team: iss YSL)
+### Authors (Team: Miss YSL)
 * Mua-Hua Hsu
 * Yi-Hsuan Hsu
 * Su-Tien Lee
